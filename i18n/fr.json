@@ -1,0 +1,17 @@
+{
+  "title": "TUXEDO",
+  "cpu": "Charge CPU",
+  "cpuPower": "Puissance CPU",
+  "cpuTemp": "Température CPU",
+  "battery": "Batterie",
+  "batteryPower": "Puissance batterie",
+  "profile": "Profil",
+  "auto": "Automatique",
+  "offline": "tccd n'est pas démarré",
+  "manual": "Profil forcé",
+  "ac": "Sur secteur",
+  "onBattery": "Sur batterie",
+  "search": "Rechercher un profil",
+  "noMatch": "Aucun profil correspondant",
+  "cpuShort": "CPU"
+}
